@@ -27,4 +27,3 @@ var audiTTThan = audiQ7
 audiTTThan.name = "AudiTTThan"
 audiQ7.getSpecs()
 audiTTThan.getSpecs()
-

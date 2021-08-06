@@ -34,7 +34,6 @@ if  qty < 5 , price == 1000 {
 }
 //Could not figure out how to do this :(
 
-
 //Ex4:
 var userInputAge = "33a"
 

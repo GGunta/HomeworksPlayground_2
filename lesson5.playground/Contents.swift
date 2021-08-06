@@ -13,6 +13,7 @@ class Orange {
       self.weight = weight
     }
 }
+
 let someOrange = Orange()
 someOrange.weight = 0.66
 someOrange.color = "Orange"
@@ -53,3 +54,5 @@ let myRectangle = Rectangle()
 myRectangle.height = 10.5
 myRectangle.width = 5.5
 myRectangle.description()
+
+
